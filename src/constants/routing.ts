@@ -1,0 +1,1 @@
+export const MAX_ROUTING_LOCATIONS = 10;
