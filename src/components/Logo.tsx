@@ -22,7 +22,7 @@ export const Logo = ({
       <Link to={"/home"}>
         <img
           className="cursor-pointer"
-          src="../../../public/gnome-green.png"
+          src="/gnome-green.png"
           alt="TravelGnome"
           width={90}
         />
@@ -79,7 +79,7 @@ export const NewLogo = () => {
       <Link to="/home">
         <img
           className="cursor-pointer"
-          src="../../../public/gnome-green.png"
+          src="/gnome-green.png"
           alt="TravelGnome"
           width={75}
         />

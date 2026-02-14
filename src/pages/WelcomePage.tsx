@@ -34,7 +34,7 @@ export const WelcomePage = () => {
         <div className="flex flex-row gap-10 items-center">
           <div className="w-120 h-120 ">
             <img
-              src="../../public/first.png"
+              src="/first.png"
               alt="tokyo"
               className="w-full h-full object-cover aspect-square rounded-xl"
               style={{ objectPosition: "10%" }}
@@ -62,7 +62,7 @@ export const WelcomePage = () => {
           </div>
           <div className="w-120 h-120 ">
             <img
-              src="../../public/second.png"
+              src="/second.png"
               alt="tokyo"
               className="w-full h-full object-cover aspect-square rounded-xl"
             />
@@ -71,7 +71,7 @@ export const WelcomePage = () => {
         <div className="flex flex-row gap-10 items-center">
           <div className="w-120 h-120 ">
             <img
-              src="../../public/third.png"
+              src="/third.png"
               alt="tokyo"
               className="w-full h-full object-cover aspect-square rounded-xl"
               style={{ objectPosition: "10%" }}
