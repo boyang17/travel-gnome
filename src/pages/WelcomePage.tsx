@@ -15,7 +15,7 @@ export const WelcomePage = () => {
       <div className="flex flex-col items-center gap-8">
         <p className="font-bold text-5xl">Planning your trips starts here</p>
         <p className="text-lg text-gray-700">
-          Organize places, create itineraries and map your journy - all in one
+          Organize places, create itineraries and map your journeys - all in one
           place
         </p>
         <div className="flex flex-row gap-2 items-center">
