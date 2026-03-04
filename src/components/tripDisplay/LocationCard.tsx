@@ -122,6 +122,7 @@ export function LocationCard({
                   className="text-sm focus:outline-none field-sizing-content w-full resize-none"
                   placeholder="Add notes, links, etc. here"
                   value={notes}
+                  onClick={(e) => e.stopPropagation()}
                   onChange={(e) => {
                     setNotes(e.target.value);
                   }}
